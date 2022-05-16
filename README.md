@@ -22,7 +22,7 @@
 
 <h2 align="center">💬 How to reach me:</h2>
 
-<br><br> 
+<br>
 
 <p align="center" align='right'>
   <a target="_blank" href="mailto:svetkanumber1@gmail.com"><img
