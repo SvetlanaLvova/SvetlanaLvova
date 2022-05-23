@@ -8,9 +8,9 @@
 ## About Me 🤩
 ```javascript
 const profile = {
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest],
-  more: [I like to play squash, ride a bike, learn new things]
+  code: ['Javascript', 'HTML', 'CSS'],
+  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Jest'],
+  more: ['I like to play squash', 'ride a bike', 'learn new things']
 }
 ```
 
