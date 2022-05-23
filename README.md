@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋😄, I'm Sveta</h1>
 <h3 align="center">Frontend JavaScript Developer from Moscow 🧚</h3>
 
-## About Me 🙋‍♀️
+## About Me 🤩
 ```javascript
 const profile = {
   code: [Javascript, HTML, CSS],
