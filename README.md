@@ -1,90 +1,40 @@
 <div align="center">
-  <img src="https://github.com/SvetlanaLvova/SvetlanaLvova/blob/main/assets/matrix-1.gif" alt="header"/>
+  <img src="https://github.com/SvetlanaLvova/SvetlanaLvova/blob/main/assets/dog.gif" alt="header"/>
 </div>
 
-<h2 align="center">Hi there 👋😄</h2>
-<p align="center">
-<samp>My name is Sveta, I'm from Moscow!<br> <br> I am a Fullstack JavaScript developer. 😎 
-</samp>
-  <br> <br>
+<h1 align="center">Hi 👋😄, I'm Sveta</h1>
+<h3 align="center">Frontend JavaScript Developer from Moscow</h3>
+
+## About Me 🧚
+
+const profile = {
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Jest],
+  more: [I like to play squash, ride a bike, learn new things]
+}
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>  
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+</p>
 </p>
 
-<h2 align="center">✨ My projects:</h2>
+## Connect with me:
+<p align="left">
 
-<p align="center">
-  <samp>Check out my projects: <!-- <a href="https://github.com/hadzhehsen/elbrus_smart_chain" target="_blank">название проекта</a> -->
-  </samp>
-  <br> <br>
-  <!-- <samp>And something else: <a href="https://github.com/hadzhehsen/ded-helper" target="_blank">название проекта</a> -->
-  </samp>
-  <br> <br>
+- Email: [svetkanumber1@gmail.com](https://gmail.com)
+- Telegram: [@lvovik](https://t.me/lvovik/)
+
+### You can see my projects in pinned repositories!
+
 </p>
-
-<h2 align="center">💬 How to reach me:</h2>
-
-<br>
-
-<p align="center" align='right'>
-  <a target="_blank" href="mailto:svetkanumber1@gmail.com"><img
-    src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://t.me/lvovik"><img
-    src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram"/></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<h2 align="center">My skills</h2>
-
-<br><br>
-
-<div align="center">
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-  ![Redux](https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=7749BD)
-  ![ReactRouter](https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router)
-  ![Html](https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5)
-  ![Css](https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=369AD6)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap)
-  ![Node](https://img.shields.io/badge/node-20232A?style=for-the-badge&logo=node.js)
-  ![Express](https://img.shields.io/badge/express-20232A?style=for-the-badge&logo=express)
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-20232A?style=for-the-badge&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=Sequelize)
-  ![Postman](https://img.shields.io/badge/postman-20232A?style=for-the-badge&logo=postman)
-  ![Jest](https://img.shields.io/badge/jest-20232A?style=for-the-badge&logo=jest&logoColor=99424F)
-  ![Eslint](https://img.shields.io/badge/eslint-20232A?style=for-the-badge&logo=eslint&logoColor=7C7CEA)
-  ![Prettier](https://img.shields.io/badge/prettier-20232A?style=for-the-badge&logo=prettier)
-  ![Git](https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git)
-  ![Gilab](https://img.shields.io/badge/gitlab-20232A?style=for-the-badge&logo=gitlab)
-  ![Github](https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github)
-  ![Npm](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm)
-
-</div>
-
-<div align="center">
-
-  <br><br>
-
-  <h2> 📈 GitHub Activity Graph: </h2>
-
-  ![hadzhehsen's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hadzhehsen&hide_border=true&theme=redical)
-
-  <br><br>
-
-  ![hadzhehsen's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hadzhehsen&theme=radical)
-
-  <br><br>
-
-  ![hadzhehsen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=hadzhehsen&theme=radical)
-
-  <br><br>
-
-  ![hadzhehsen's github
-  stats](https://github-readme-stats.vercel.app/api?username=hadzhehsen&show_icons=true&theme=radical&include_all_commits=true)
-
-  <br><br>
-
-  <br> <br>
-
-  ![](https://visitor-badge.glitch.me/badge?page_id=hadzhehsen)
-
-</div>
-
