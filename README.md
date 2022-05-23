@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">Hi 👋😄, I'm Sveta</h1>
-<h3 align="center">Frontend JavaScript Developer from Moscow</h3>
+<h3 align="center">Frontend JavaScript Developer from Moscow 🧚</h3>
 
-## About Me 🧚
+## About Me
 ```javascript
 const profile = {
   code: [Javascript, HTML, CSS],
@@ -13,8 +13,6 @@ const profile = {
   more: [I like to play squash, ride a bike, learn new things]
 }
 ```
-
-## 🚀 Languages and Tools:
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
