@@ -37,5 +37,8 @@ const profile = {
 - Telegram: [@lvovik](https://t.me/lvovik/)
 
 ### You can see my projects in pinned repositories!
+<p align="center">
+  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=You can see my projects in pinned repositories!&fontSize=36&animation=twinkling" alt="bazmaster" />
+</p>
 
 </p>
