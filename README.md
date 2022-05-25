@@ -9,7 +9,7 @@
 ```javascript
 const profile = {
   code: ['Javascript', 'HTML', 'CSS'],
-  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap', 'Jest', 'Postman'],
+  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap', 'Jest', 'Postman', 'Git'],
   more: ['I like to play squash', 'ride a bike', 'learn new things']
 }
 ```
