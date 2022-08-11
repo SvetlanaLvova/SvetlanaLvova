@@ -13,13 +13,6 @@ const profile = {
   more: ['I like to play squash', 'ride a bike', 'learn new things']
 }
 ```
-<h3 align="center">I love tasks</h3>
-
-<div align="center">
-  
-[![Codewars](https://www.codewars.com/users/SvetlanaLvova/badges/large)](https://www.codewars.com/users/SvetlanaLvova)
-  
-  </div>
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
