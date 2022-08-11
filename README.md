@@ -29,6 +29,13 @@ const profile = {
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="36" height="36"/> </a>
 </p>
 </p>
+<h3 align="center">I love tasks</h3>
+
+<div align="center">
+  
+[![Codewars](https://www.codewars.com/users/SvetlanaLvova/badges/large)](https://www.codewars.com/users/SvetlanaLvova)
+  
+  </div>
 
 ## Connect with me:
 <p align="left">
