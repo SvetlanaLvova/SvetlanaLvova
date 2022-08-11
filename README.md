@@ -37,6 +37,14 @@ const profile = {
 </p>
 </p>
 
+<h3 align="center">I love tasks</h3>
+
+<div align="center">
+  
+[![Codewars](https://www.codewars.com/users/SvetlanaLvova/badges/large)](https://www.codewars.com/users/SvetlanaLvova)
+  
+ </div>
+
 ## Connect with me:
 <p align="left">
 
