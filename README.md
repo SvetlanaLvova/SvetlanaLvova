@@ -44,9 +44,7 @@ const profile = {
 - Email: [svetkanumber1@gmail.com](https://gmail.com)
 - Telegram: [@lvovik](https://t.me/lvovik/)
 
-<br>
+<br/>
 <p align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=You can see my projects in pinned repositories!&fontSize=36&animation=twinkling" alt="bazmaster" />
-</p>
-
+ <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=You%20can%20see%20my%20projects%20in%20pinned%20repositories!&fontSize=36&animation=twinkling" alt="bazmaster" />
 </p>
