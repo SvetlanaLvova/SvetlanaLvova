@@ -30,7 +30,7 @@ const profile = {
 </p>
 </p>
 
-<h3 align="center">I love tasks</h3>
+<h3 align="center">I like tasks</h3>
 
 <div align="center">
   
